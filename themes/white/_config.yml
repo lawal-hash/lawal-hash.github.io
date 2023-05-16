@@ -53,7 +53,7 @@ site_description: #A minimalist theme for hexo. #The default meta description fo
 #Add description property to any page to change the meta description
 menu:
   HOME: /
-  About: /
+  #About: /
   BLOG: /archives
 
 
